@@ -1,4 +1,5 @@
 # 🇬🇧 UK Top 50 — Market Structure & Content Analytics
+Live Demo  -> https://uk-top-50-market-analysis-qnyewww5gm9hkfesurdpms.streamlit.app/
 
 An interactive **Streamlit analytics dashboard** for exploring UK Top 50 playlist data through artist concentration, diversity, collaboration patterns, content characteristics, album structure, track duration, and market-level trends.
 
